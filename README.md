@@ -1,2 +1,2 @@
 # Water-Potability-test
-Water potability analysis and comparison of different classification algorithm
+Water potability analysis and prediction using different classification algorithm
